@@ -1,0 +1,4 @@
+﻿  Course_work_sem3_cpp.cpp
+C:\Users\yiaro\source\repos\Course_work_sem3_cpp\Course_work_sem3_cpp\Menu.h(87,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yiaro\source\repos\Course_work_sem3_cpp\Course_work_sem3_cpp\Menu.h(93,37): warning C4018: '>': signed/unsigned mismatch
+  Course_work_sem3_cpp.vcxproj -> C:\Users\yiaro\source\repos\Course_work_sem3_cpp\Debug\Course_work_sem3_cpp.exe
